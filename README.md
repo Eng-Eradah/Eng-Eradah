@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eradah Alfakih</h1>
-<h3 align="center">A biomedical engineering student at Cairo university, SBME Department</h3>
+<h3 align="center">CollaborativeTechnologyInternwithexperiencedesigningwebsitesSkilled
+in project coordination and meeting customer expectations. Adeptworking with [Bootstrap and Tailwind] computer languages and
+coding.CanusePhotoshopandIllustratorprograms. Also,canuseXDforvisualizingwebsitesandapps.KnowledgeableDatabase
+Developer with significant knowledge [Sql server] and
+[Oracle]databasesystems</h3>
 <div align="center"><img src=https://user-images.githubusercontent.com/61319952/169928402-5e61327e-e9fa-4a44-bdb9-499123bc6cfd.gif class="img-responsive" align="center" alt=""> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eng-Eradah&label=Profile%20views&color=0e75b6&style=flat" alt="Eng-Eradah" /> </p>
@@ -14,8 +18,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/eradah-alfakeh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah shazli" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullah_shazli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah_shazli" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdullah_shazli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah_shazli" height="30" width="40" /></a>
+<a href="https://instagram.com/eradahalfakeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eradah_alfakeh" height="30" width="40" /></a>
+
 </p>
  
 <h3 align="left">Languages and Tools:</h3>
