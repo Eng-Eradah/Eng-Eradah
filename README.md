@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eradah Alfakih</h1>
-<h3 align="center">CollaborativeTechnologyInternwithexperiencedesigningwebsitesSkilled
-in project coordination and meeting customer expectations. Adeptworking with [Bootstrap and Tailwind] computer languages and
-coding.CanusePhotoshopandIllustratorprograms. Also,canuseXDforvisualizingwebsitesandapps.KnowledgeableDatabase
-Developer with significant knowledge [Sql server] and
-[Oracle]databasesystems</h3>
+<h3 align="center">Full Stack (vuejs and laravel) developer</h3>
 <div align="center"><img src=https://user-images.githubusercontent.com/61319952/169928402-5e61327e-e9fa-4a44-bdb9-499123bc6cfd.gif class="img-responsive" align="center" alt=""> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Eng-Eradah&label=Profile%20views&color=0e75b6&style=flat" alt="Eng-Eradah" /> </p>
